@@ -75,7 +75,8 @@ volumes:
 
 
 
-*** Também para efeito de registro o prometheus.yml tem que estar no mesmo diretorio que o docker-compose.yml para trazer as configurações dos endpoints
+*** Também para efeito de registro o prometheus.yml:
+Tem que estar no mesmo diretorio que o docker-compose.yml para trazer as configurações dos endpoints
 
 prometheus.yml
 
