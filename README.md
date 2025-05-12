@@ -13,11 +13,12 @@ Este projeto demonstra como criar e consumir filas usando **RabbitMQ** e **Pytho
 ## 🚀 Como rodar o projeto
 
 Execução classica em python execute nessa ordem:
-Aba 1:
+
+- Terminal = Aba 1:
 python consumer.py 
 fica aguardando a mensagens
 
-Aba 2:
+- Terminal = Aba 2:
 python producer.py
 envia as mensagens
 
